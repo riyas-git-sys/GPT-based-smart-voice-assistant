@@ -45,7 +45,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/smart-gpt-voice-assistant.git
+git clone https://github.com/riyas-git-sys/GPT-based-smart-voice-assistant/tree/main.git
 cd smart-gpt-voice-assistant
 Install required packages
 
